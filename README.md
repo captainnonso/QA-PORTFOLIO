@@ -1,6 +1,6 @@
 # QA-PORTFOLIO
 
-# ✅ Quality Assurance Engineering Portfolio – David Great Orji
+# ✅ Quality Assurance Engineering Portfolio – David Great
 
 Welcome to my QA Engineering Portfolio. I’m a **Senior QA Engineer** with over ** years of experience** delivering high-quality software through manual and automated testing. This repository showcases my practical experience in building test automation frameworks, writing structured test cases, executing performance tests, and documenting bugs in real-world applications.
 
@@ -10,7 +10,7 @@ Welcome to my QA Engineering Portfolio. I’m a **Senior QA Engineer** with over
 
 - 🔹 **Name**: David Great Orji  
 - 🔹 **Role**: Senior Quality Assurance Engineer  
-- 🔹 **Experience**: 5+ years  
+- 🔹 **Experience**: 3+ years  
 - 🔹 **Focus Areas**: Test automation . mobile testing . manual testing . API validation . performance testing . bug documentation  
 - 🔹 **Tools**: Cypress · Playwright · Postman · JMeter · GitHub Actions · JavaScript · Agile/Scrum . Katalon Studio
 - 🔹 **WEB Testing Tools**: Cypress.  Selenium . Katalon .  Playwright
@@ -63,7 +63,6 @@ To explore:
 
 - 📍 Lagos, Nigeria  
 - 📧 softwaretestingmachine@gmail.com  
-- 🌐 [GitHub Profile](https://github.com/captainnonso)
 
 ---
 
